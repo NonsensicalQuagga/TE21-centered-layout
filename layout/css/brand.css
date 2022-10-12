@@ -1,0 +1,19 @@
+body{
+    background-color: #90e816;
+    color: #f0e2a0;
+    font-family: 'Silkscreen', cursive;
+}
+
+a{
+    color: #f0e2a0;
+}
+
+a:hover{
+    color: #948c63;
+}
+nav > a{
+    font-weight: 500;
+    text-decoration: none;
+}
+
+
